@@ -1,3 +1,4 @@
+![logo} (https://github.com/prathamsen25/prathamsen25/blob/main/data.jpeg)
 <h1 align="center">Hi 👋, I'm Pratham Sen</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
